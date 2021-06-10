@@ -7,7 +7,7 @@
  - Images and corresponding probability that are predicted right
  - Images and corresponding probability that are predicted wrong 
  - - -
- ### 🔷 Link
+ ### 🔷 Link  
  [Model 1](#model_number_1)  
  [Model 2](#model_number_2)  
  [Model 3](#model_number_3)  
