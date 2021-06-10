@@ -8,7 +8,7 @@
  - Images and corresponding probability that are predicted wrong 
  - - -
  ### 🔷 Link
- [Model 1](#model_number_1)
+ [Model 1](#:large_blue_diamond:_model_number_1)
  [Model 2](#model_number_2)
  [Model 3](#model_number_3)
  
@@ -43,7 +43,7 @@
 - - -
 
 
-### 🔷 Model Number 3
+### 🔷Model Number 3
 #### 1. Model
 ![model_3_model](https://user-images.githubusercontent.com/33649813/121445257-12272a00-c9cc-11eb-87d7-393f1aca9670.png)
 
