@@ -13,7 +13,7 @@
  [Model 3](#model_number_3)  
  
  - - -
-### 🔹Model Number 1 
+### Model Number 1 
 #### 1. Model
 ![model_1_model](https://user-images.githubusercontent.com/33649813/121444690-ef484600-c9ca-11eb-97a1-becfe9f2a645.png)
 
@@ -27,7 +27,7 @@
 ![model_1_error](https://user-images.githubusercontent.com/33649813/121444819-274f8900-c9cb-11eb-862f-80c959c80c5f.png)
 - - -
 
-### 🔹Model Number 2
+### Model Number 2
 #### 1. Model
 ![model_2_model](https://user-images.githubusercontent.com/33649813/121445067-afce2980-c9cb-11eb-83e0-bcc6a88ccb32.png)
 
@@ -43,7 +43,7 @@
 - - -
 
 
-### 🔹Model Number 3
+### Model Number 3
 #### 1. Model
 ![model_3_model](https://user-images.githubusercontent.com/33649813/121445257-12272a00-c9cc-11eb-87d7-393f1aca9670.png)
 
