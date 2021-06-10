@@ -7,10 +7,9 @@
  - Images and corresponding probability that are predicted right
  - Images and corresponding probability that are predicted wrong 
  - - -
- ### 🔷 Link  
- [Model 1](#model-number-1)  
- [Model 2](#model-number-2)  
- [Model 3](#model-number-3)  
+ [Model 1](#model-number-1) 
+ [Model 2](#model-number-2) 
+ [Model 3](#model-number-3) 
  
  - - -
 ### 🔹Model Number 1 
